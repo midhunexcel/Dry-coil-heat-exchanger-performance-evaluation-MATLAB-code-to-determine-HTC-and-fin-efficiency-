@@ -1,0 +1,2 @@
+# Dry-coil-heat-exchanger-performance-evaluation-MATLAB-code-to-determine-HTC-and-fin-efficiency-
+MATLAB code developed for determination of HTC and fin efficiency for a dry cross flow plain finned heat exchanger can be accomplished by using this code. Equivalent circular area of the plain fin, geometry inputs, Inlet &amp; outlet temperatures, heat transfer rate needs to be entered.  Solver technique: Succcessive Successive Substitution Method
